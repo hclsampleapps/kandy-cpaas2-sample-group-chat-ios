@@ -1,8 +1,7 @@
 # kandy-cpaas2-sample-group-chat-ios
 Group chat app is used to create communication channel among multiple users via Chat APIs
 
-## Introduction
-Group chat app is used to create communication channel among multiple users via Chat APIs
+## Features
 
 - [x] Group Chat
 
@@ -40,9 +39,9 @@ git clone  https://github.com/hclsampleapps/kandy-cpaas2-sample-group-chat-ios.g
 Instructions to build the app
 
 1. Open the project folder in terminal.
-2. Run 'pod install' it will add all the pods required.
-3. Run 'pod update KandyCPaaSMobileSDK' to update to latest CpaaS pod.
-4. Open RibbonSample.xcworkspace
+2. Run `pod install` it will add all the pods required.
+3. Run `pod update KandyCPaaSMobileSDK` to update to latest CPaaS pod.
+4. Open *RibbonSample.xcworkspace*
 5. Build and deploy the app
 
 ### Branching strategy
